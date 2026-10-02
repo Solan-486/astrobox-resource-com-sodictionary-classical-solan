@@ -2,8 +2,8 @@
   "item": {
     "id": "com.SoDictionary.Classical.solan",
     "restype": "quick_app",
-    "name": "So词典-古文词典",
-    "description": "注意：此处为古文词典，日汉/英汉词典rpk安装包请点击上方链接跳转米坛帖子进行下载~~ \n这是米坛首个带有手机APP的词典软件~[2￥]此快应用为了减少安装包占用空间，将古文&英汉&日汉分为了三个单独的快应用，你可以通过在米坛搜索“So词典”来查找其他版本！\n --1.支持古文词汇和现代文互译；\n--2.涵盖高考的所有词汇+部分常见词汇，总计上万词汇量；\n-- 3.支持快速搜索&全部搜索 &模糊搜索&精确搜索；\n-- 4.支持在手机和手表端收藏和查看词汇；\n-- 5.支持在手机和手表端查看词汇统计数据；\n-- 6.手机端支持播放词汇朗读发音[需要手机系统带有相关原生组件]。",
+    "name": "So词典-古汉语词典",
+    "description": "注意：此处为古汉语词典，日汉/英汉词典rpk安装包请点击上方链接跳转米坛帖子进行下载~~ \n这是米坛首个带有手机APP的词典软件~[2￥]此快应用为了减少安装包占用空间，将古文&英汉&日汉分为了三个单独的快应用，你可以通过在米坛搜索“So词典”来查找其他版本！\n --1.支持古文词汇和现代文互译；\n--2.涵盖高考的所有词汇+部分常见词汇，总计上万词汇量；\n-- 3.支持快速搜索&全部搜索 &模糊搜索&精确搜索；\n-- 4.支持在手机和手表端收藏和查看词汇；\n-- 5.支持在手机和手表端查看词汇统计数据；\n-- 6.手机端支持播放词汇朗读发音[需要手机系统带有相关原生组件]。",
     "preview": [
       "media/Frame 1 (2).png",
       "media/shot1790881586.png",
@@ -31,7 +31,7 @@
   "links": [
     {
       "title": "手机同步器下载",
-      "url": "https://pan.quark.cn/s/00ffd61eda80",
+      "url": "https://pan.quark.cn/s/d5624cba7db4",
       "icon": "AndroidLogo"
     },
     {
@@ -47,84 +47,180 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmrw6": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmws3": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmws4xring": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmws441": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmws4": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmws541": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     },
     "xmws5": {
-      "version": "1.5.2",
-      "file_name": "downloads/So词典-古文词典V1.5.2(修).rpk",
-      "versionCode": 7
+      "version": "1.5.3",
+      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
+      "versionCode": 8,
+      "updatelogs": [
+        {
+          "version": "1.5.3",
+          "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
+        }
+      ]
     }
   },
   "ext": {}
