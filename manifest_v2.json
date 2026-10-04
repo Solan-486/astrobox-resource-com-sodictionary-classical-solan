@@ -30,19 +30,24 @@
   },
   "links": [
     {
+      "title": "官网&介绍",
+      "url": "https://cdn.solan.work/SoDictionary/",
+      "icon": "link"
+    },
+    {
       "title": "手机同步器下载",
       "url": "https://pan.quark.cn/s/d5624cba7db4",
-      "icon": "AndroidLogo"
+      "icon": "android-logo"
     },
     {
       "title": "英汉词典链接~",
       "url": "https://www.bandbbs.cn/resources/7936/",
-      "icon": "Link"
+      "icon": "package"
     },
     {
       "title": "日汉词典链接~",
       "url": "https://www.bandbbs.cn/resources/6994/",
-      "icon": "Link"
+      "icon": "package"
     }
   ],
   "downloads": {
