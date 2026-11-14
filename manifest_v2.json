@@ -20,7 +20,7 @@
       "media/Screenshot_2026-10-02-03-21-20-779_com.SoDictionary.Classical.solan-edit.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/Frame 2.png",
+    "cover": "media/Frame 1 (1).png",
     "author": [
       {
         "name": "Solan",
@@ -52,10 +52,14 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -63,10 +67,14 @@
       ]
     },
     "xmrw5xring": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -74,10 +82,14 @@
       ]
     },
     "xmrw6": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -85,10 +97,14 @@
       ]
     },
     "xmb10": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -96,10 +112,14 @@
       ]
     },
     "xmb10p": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -107,10 +127,14 @@
       ]
     },
     "xmb10nfc": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -118,10 +142,14 @@
       ]
     },
     "xmb11": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -129,10 +157,14 @@
       ]
     },
     "xmb11nfc": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -140,10 +172,14 @@
       ]
     },
     "xmb9": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -151,10 +187,14 @@
       ]
     },
     "xmb9p": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -162,10 +202,14 @@
       ]
     },
     "xmws3": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -173,10 +217,14 @@
       ]
     },
     "xmws4xring": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -184,10 +232,14 @@
       ]
     },
     "xmws441": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -195,10 +247,14 @@
       ]
     },
     "xmws4": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -206,10 +262,14 @@
       ]
     },
     "xmws541": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
@@ -217,10 +277,14 @@
       ]
     },
     "xmws5": {
-      "version": "1.5.3",
-      "file_name": "downloads/So词典-古汉语词典V1.5.3.rpk",
-      "versionCode": 8,
+      "version": "1.5.6",
+      "file_name": "downloads/So词典-古汉语V1.5.6(1).rpk",
+      "versionCode": 11,
       "updatelogs": [
+        {
+          "version": "1.5.6",
+          "content": "1.将“快速搜索”升级为“分步搜索”，提升查找速度的同时大幅降低手环异常重启概率；\n2.优化搜索索引，进一步降低部分设备的重启概率。"
+        },
         {
           "version": "1.5.3",
           "content": "1.优化古汉语词典词库的词汇方向，更加贴近初高中生的使用场景；\n2.修复词汇详情页拼音显示错误的问题；\n3.增加词汇量，修复部分词汇的释义错误。"
